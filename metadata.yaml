@@ -1,0 +1,26 @@
+_repo: Den-gatfulle-dubbelgangaren_74707
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mr. C.
+    gutenberg_agent_id: '57610'
+    url: http://www.gutenberg.org/2009/agents/57610
+description: ''
+gutenberg_issued: '2024-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74707'
+language: sv
+pgterms:marc904: https://digi.kansalliskirjasto.fi/teos/binding/1984428?term=Herr&term=Corpwieth&page=1
+pgterms:marc905: 20241107041825mrc
+pgterms:marc906: '1916'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aBorgå :$bHolger Schildt''s Förlag, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Den gåtfulle dubbelgångaren
+url: http://www.gutenberg.org/ebooks/74707
